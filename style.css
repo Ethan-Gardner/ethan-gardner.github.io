@@ -96,7 +96,7 @@ body::-webkit-scrollbar-track {
 
 .header-navigation a,
 .header-navigation button {
-	font-size: 1.125rem;
+	font-size: 2.125rem;
 	color: inherit;
 	margin-left: 1.75rem;
 	position: relative;
@@ -106,7 +106,7 @@ body::-webkit-scrollbar-track {
 
 .header-navigation a {
 	display: none;
-	font-size: 1.125rem;
+	font-size: 2.125rem;
 	color: inherit;
 	text-decoration: none;
 }
@@ -150,7 +150,7 @@ body::-webkit-scrollbar-track {
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 2rem;
-	font-size: 1.125rem;
+	font-size: 1.2rem;
 	color: #ffffff;
 	
 }
@@ -160,7 +160,7 @@ body::-webkit-scrollbar-track {
 }
 
 .widget h2 {
-	font-size: 2rem;
+	font-size: 3rem;
 	font-weight: 2000;
 	line-height: 1.25;
 	color: #d3a121;
@@ -168,7 +168,7 @@ body::-webkit-scrollbar-track {
 }
 
 .widget h3 {
-	font-size: 1.25rem;
+	font-size: 1.5rem;
 	font-weight: 1250;
 	line-height: 1.25;
 	color: #d3a121;
