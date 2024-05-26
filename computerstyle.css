@@ -140,7 +140,7 @@ body::-webkit-scrollbar-track {
 }
 
 .widget {
-	width: 95%;
+	width: 80%;
 	border-radius: 8px;
 	background-color: #282828;
 	padding: 2.5rem;
