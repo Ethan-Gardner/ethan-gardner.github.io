@@ -27,7 +27,6 @@ body {
 	/* IE 10+ */
 	user-select: none;
 	/* Standard syntax */
-scroll-behavior: smooth;
 }
 
 body::-webkit-scrollbar {
