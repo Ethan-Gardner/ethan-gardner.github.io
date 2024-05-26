@@ -4,4 +4,5 @@ Trying to create a sort of luxury website.
 - [ ] Add links to navigation header.
 - [ ] More variety of pages.
 - [ ] Better mobile site version.
-- [ ] Improve file organization. ⬅ Probably won't happen.
+- [ ] Improve file organization. 🠈 Probably won't happen.
+- [ ] Give me ideas!
