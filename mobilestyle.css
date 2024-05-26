@@ -12,7 +12,9 @@
 	--header-height-difference: calc(var(--header-outer-height) - var(--header-inner-height));
 	--header-bg: rgb(0, 0, 0);
 }
-
+html {
+    scroll-behavior: smooth;
+}
 body {
 	font-family: "DM Sans", sans-serif;
 	background-color: #000000;
