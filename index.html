@@ -1,31 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="/Assets/favicon.jpg" type="image/x-icon">
-    <title>Example Market</title>
-    <script>
-        // JavaScript to detect the device and redirect
-        function redirectBasedOnDevice() {
-            // Check if the user agent contains 'Mobi' which is common in mobile devices
-            if (/Mobi/.test(navigator.userAgent)) {
-                // If it's a mobile device, redirect to mobile URL
-                window.location.href = "/mobile";
-            } else {
-                // If it's not a mobile device, redirect to desktop URL
-                window.location.href = "/computer";
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" href="/Assets/favicon.jpg" type="image/x-icon" />
+        <title>Example Market</title>
+        <script>
+            // JavaScript to detect the device and redirect
+            function redirectBasedOnDevice() {
+                // Check if the user agent contains 'Mobi' which is common in mobile devices
+                if (/Mobi/.test(navigator.userAgent)) {
+                    // If it's a mobile device, redirect to mobile URL
+                    window.location.href = "/mobile";
+                } else {
+                    // If it's not a mobile device, redirect to desktop URL
+                    window.location.href = "/computer";
+                }
             }
-        }
 
-        // Call the function when the page loads
-        window.onload = redirectBasedOnDevice;
-    </script>
-</head>
-<body>
-    <!-- Content for users whose devices do not support JavaScript or have JavaScript disabled -->
-    <noscript>
-        <p>This page requires JavaScript. Please enable JavaScript in your browser and try again.</p>
-    </noscript>
-</body>
+            // Call the function when the page loads
+            window.onload = redirectBasedOnDevice;
+        </script>
+    </head>
+    <body>
+        <!-- Content for users whose devices do not support JavaScript or have JavaScript disabled -->
+        <noscript>
+            <p>This page requires JavaScript. Please enable JavaScript in your browser and try again.</p>
+        </noscript>
+    </body>
 </html>
