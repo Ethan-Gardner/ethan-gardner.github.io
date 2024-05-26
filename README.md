@@ -1,5 +1,5 @@
 # Example Shop
-Trying to create a sort of luxury website.
+Trying to create a sort of luxury website with a dark, golden style. This is just for fun, and it kinda sucks.
 ### To do list:
 - [ ] Add links to navigation header.
 - [ ] More variety of pages.
