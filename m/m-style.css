@@ -18,7 +18,7 @@ body {
     line-height: 1.5;
     min-height: 100vh;
     position: relative;
-    color: #d3a121;
+    color: #CCA43B;
     -webkit-user-select: none;
     /* Safari 3.1+ */
     -moz-user-select: none;
@@ -136,7 +136,7 @@ body {
     font-size: 4rem;
     font-weight: 2000;
     line-height: 1.25;
-    color: #d3a121;
+    color: #CCA43B;
     text-align: center;
 }
 
@@ -144,7 +144,7 @@ body {
     font-size: 2.75rem;
     font-weight: 1250;
     line-height: 1.25;
-    color: #d3a121;
+    color: #CCA43B;
 }
 
 .widget code {
@@ -173,7 +173,7 @@ body {
 .tooltip {
     position: relative;
     display: inline-block;
-    border-bottom: 1px dotted #d3a121;
+    border-bottom: 1px dotted #CCA43B;
 }
 
 .tooltip .tooltiptext {
